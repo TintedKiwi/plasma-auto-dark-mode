@@ -21,7 +21,7 @@ An application that automatically changes your KDE Plasma global theme based on 
 ## 🧰 Built With
 
 <p>
-  <a href="[https://www.jetbrains.com/rider/](https://dotnet.microsoft.com/en-us/)">
+  <a href="https://dotnet.microsoft.com/en-us/">
     <img alt="CSharp .NET" title="CSharp .NET" src="https://img.shields.io/badge/C%23-.NET-%23512BD4?style=flat-square">
   </a>
   <a href="https://www.jetbrains.com/rider/">
